@@ -84,7 +84,7 @@ A full-featured, premium Dating Bot for Telegram built with Node.js, Telegraf, a
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Eul45/telegram-connect-bot.git
-   cd telegram-dating-bot
+   cd telegram-connect-bot
    ```
 
 2. **Install dependencies**
@@ -143,4 +143,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📄 License
 
 This project is licensed under the ISC License.
+
 
